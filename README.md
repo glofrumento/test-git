@@ -1,2 +1,2 @@
 # test-git
-try git commands to learn them
+Try git commands to learn them
