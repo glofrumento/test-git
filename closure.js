@@ -1,10 +1,10 @@
 // Esempio di closure in JavaScript
 
-function f(m) {
+function f(par) {
   let n = 5;
 
-  if (m > 0) {
-    n += m;
+  if (par > 0) {
+    n += par;
   }
   return function closure() {
            return n;
